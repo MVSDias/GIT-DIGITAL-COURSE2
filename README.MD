@@ -5,5 +5,7 @@
 # mudanças no repoositório
 
 * comando git push
+* comando git pull
+
 
 
