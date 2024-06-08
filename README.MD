@@ -4,3 +4,6 @@
 
 # mudanças no repoositório
 
+* comando git push
+
+
